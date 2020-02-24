@@ -1,7 +1,6 @@
 +++
 author = "Anderson Casimiro"
 date = 2018-09-10T03:00:00Z
-draft = true
 hero = "/images/ravi-pinisetti-1zikZJVXSfA-unsplash.jpg"
 title = "Qual o nosso propósito"
 type = "blog"
