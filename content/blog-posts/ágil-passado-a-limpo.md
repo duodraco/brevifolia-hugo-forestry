@@ -1,7 +1,6 @@
 +++
 author = "Anderson Casimiro"
 date = 2018-08-15T03:00:00Z
-draft = true
 hero = "/images/1_Wndl8KUByTYP99bHtsyBbg.jpeg"
 title = "Ágil passado a limpo"
 type = "blog"
