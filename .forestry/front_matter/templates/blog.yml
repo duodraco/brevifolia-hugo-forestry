@@ -31,5 +31,6 @@ fields:
   name: hero
   label: Hero Image
 pages:
+- content/blog-posts/empatia-e-respeito.md
 - content/blog-posts/qual-o-nosso-propósito.md
 - content/blog-posts/ágil-passado-a-limpo.md
