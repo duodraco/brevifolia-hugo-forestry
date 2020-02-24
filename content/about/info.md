@@ -1,10 +1,11 @@
 ---
 title: About
 date: 2019-07-06T20:13:19.000+00:00
-background_color: "#B4CEC8"
+background_color: "#003366"
 contact_info:
   twitter_handle: duodraco
   github_handle: duodraco
+  linkedin_handle: andersoncasimiro
   email: duodraco@gmail.com
   twitter_url: https://twitter.com/forestryio
   github_url: https://github.com/forestryio
