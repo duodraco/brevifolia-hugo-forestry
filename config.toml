@@ -5,4 +5,7 @@ title = "Duodraco"
 defaultContentLanguage = "pt"
 
 [Author]
-    name = "Anderson Casimiro"
+name = "Anderson Casimiro"
+
+[Params]
+css = ["css/custom.css","https://use.fontawesome.com/d0a4bb34f5.css"]

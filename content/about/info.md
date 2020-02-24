@@ -6,6 +6,7 @@ contact_info:
   twitter_handle: duodraco
   github_handle: duodraco
   linkedin_handle: andersoncasimiro
+  instagram_handle: duodraco
   email: duodraco@gmail.com
   twitter_url: https://twitter.com/forestryio
   github_url: https://github.com/forestryio

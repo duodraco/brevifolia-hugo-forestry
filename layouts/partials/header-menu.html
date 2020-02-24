@@ -1,0 +1,15 @@
+
+<div>
+    {{ $aboutTitle := "About" }}
+    {{if (eq .Title $aboutTitle) }}
+        <h1><a href="{{ "/" | relURL }}">close</a></h1>
+    {{ else }}
+        <h1><a href="{{ "about/info" | relURL }}">{{ i18n "about" }}</a></h1>
+    {{end}}
+</div>
+<div class="social-links">
+    <li><h2><a href="https://linkedin.com/in/{{.Params.contact_info.linkedin_handle }}"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></h2></li>
+    <li><h2><a href="https://twitter.com/{{.Params.contact_info.twitter_handle}}"><i class="fa fa-twitter" aria-hidden="true"></i></a></h2></li>
+    <li><h2><a href="https://instagram.com/{{.Params.contact_info.instagram_handle }}"><i class="fa fa-instagram" aria-hidden="true"></i></a></h2></li>
+    <li><h2><a href="https://github.com/{{.Params.contact_info.github_handle }}"><i class="fa fa-github" aria-hidden="true"></i></a></h2></li>
+</div>
