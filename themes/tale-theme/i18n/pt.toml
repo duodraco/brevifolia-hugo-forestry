@@ -1,0 +1,17 @@
+[posts]
+other = "Posts"
+
+[about]
+other = "sobre"
+
+[writtenBy]
+other = "escrito por"
+
+[on]
+other = "no"
+
+[generator]
+other = "Feito no <a href='https://forestry.io'>Forestry</a> com <a href='https://gohugo.io'>Hugo,</a> e o tema <a href='https://github.com/EmielH/tale-hugo/'>Tale</a>."
+
+[publishdate]
+other = "{{ .PublishDate.Format \"02/01/2006\" }}"

@@ -2,3 +2,7 @@ baseURL = "/"
 languageCode = "pt-br"
 theme = "tale-theme"
 title = "Duodraco"
+defaultContentLanguage = "pt"
+
+[Author]
+    name = "Anderson Casimiro"
