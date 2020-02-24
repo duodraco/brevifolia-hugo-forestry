@@ -12,6 +12,6 @@ contact_info:
 type: ''
 
 ---
-## This is made with [Forestry](https://forestry.io/ "Forestry.io") & [Hugo](https://gohugo.io/ "Hugo SSG").
+## Pode me chamar de Casi, ou Duodraco. 
 
-## To get started, import this site into Forestry or checkout the repository [here](https://github.com/kendallstrautman/starter-blog-hugo "forestry starter blog hugo").
+## Apaixonado por tecnologia desde a primeira linha de código (1988), Geek de carteirinha. Eterno aprendiz. Meu trabalho é desenvolver pessoas, times, produtos e software!
