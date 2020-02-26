@@ -5,3 +5,32 @@
 .social-links li a i{
     font-size: 32px;
 }
+body nav.nav a h1.nav-title{
+    border-bottom: 1px solid #FFF;
+    margin-bottom: 16px;
+}
+body nav.nav{
+    background-color: #036;
+    color: #FFF;
+    border-top: none;
+    border-right: solid 2px #2A9F7D;
+}
+body nav.nav div.nav-container{
+    display: flex;
+    flex-flow: row wrap !important;
+    align-content: flex-start;
+}
+body nav.nav div.nav-container a{
+    width: 100%;
+}
+body nav.nav div.nav-container ul.menu {
+    width: 100%;
+}
+body nav.nav div.nav-container ul.menu li {
+    font-size: 1.2em;
+}
+body nav.nav div.nav-container ul.social-links {
+    width:100%;
+    display:flex;
+    justify-content: center;
+}

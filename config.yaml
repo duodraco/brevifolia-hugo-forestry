@@ -1,0 +1,18 @@
+baseURL: "/"
+languageCode: "pt-br"
+theme: "tale-theme"
+title: "Duodraco"
+defaultContentLanguage: "pt"
+
+Author:
+    name: "Anderson Casimiro"
+
+Params:
+    css: 
+        - "css/custom.css"
+        - "https://use.fontawesome.com/d0a4bb34f5.css"
+    social:
+        - {name: "Linkedin", url: "linkedin.com/in/andersoncasimiro", icon: "linkedin-square"}
+        - {name: "Twitter", url: "twitter.com/duodraco", icon: "twitter"}
+        - {name: "Instagram", url: "instagram.com/duodraco", icon: "instagram"}
+        - {name: "Github", url: "github.com/duodraco", icon: "github"}
